@@ -63,7 +63,7 @@ The Terminal will display the main menu. Type in the instruction EXACTLY as it a
 
 To add a shoe input data as shown on the prompts. No need for any symbols of currency where it says price ect., 
 
-For the rest of the programme simply follow the prompts. The programme will update ass you go along 
+For the rest of the programme simply follow the prompts. The programme will update as you go along 
 
 
 
